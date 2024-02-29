@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Jo%20sieun&fontSize=80)
 
+
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
+
 <!--
 **sieun1002/sieun1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
