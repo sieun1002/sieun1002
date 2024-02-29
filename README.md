@@ -1,11 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Jo%20sieun&fontSize=80)
+<div align=center>![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hi,%20I'm%20Jo%20sieun&fontSize=80)</div>
+<br><br>
+
 
 <div align=center><h1> Follow Me </h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
 </div>
-
+<br><br>
 
 <div align=center><h1> Stack </h1></div>
 
