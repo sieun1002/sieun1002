@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waveing&color=auto&height=250&section=header&text=Jo%Sieun%20render&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Jo%sieun%20render&fontSize=80)
 
 <!--
 **sieun1002/sieun1002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
