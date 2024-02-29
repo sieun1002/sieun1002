@@ -4,8 +4,9 @@
 
 <div align=center><h1> Follow Me </h1></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
+  <a href="https://zest-trumpet-3e4.notion.site/480e17f096d64d399fc38fa151404c8b?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+  <a href="https://blog.naver.com/nata20034"><img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
+  
 </div>
 <br><br>
 
@@ -39,6 +40,8 @@
   
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=Tmux&logoColor=white">
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
   <br>
 
 </div>
